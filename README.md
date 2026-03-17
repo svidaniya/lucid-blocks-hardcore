@@ -1,6 +1,6 @@
-![HARDCORE Example](images/icon.png)
-
 # HARDCORE
+
+![HARDCORE Example](images/icon.png)
 
 ## Description
 
